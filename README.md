@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Автосалон</title>
+       Автосалон
     <style>
         body {
             font-family: Arial, sans-serif;
@@ -80,7 +80,7 @@
         <a href="#cars">Автомобили</a>
         <a href="#about">О нас Мы являемся лучшими в сфере автопрродаж не только в Астане но и по всему миру 
         </a>
-        <a href="#contact">777-777-77-77,777-888-88-88</a>
+        <a href="#contact"> с нами связаться 777-777-77-77,777-888-88-88</a>
     </nav>
     <div class="container">
         <section id="cars">
