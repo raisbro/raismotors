@@ -85,17 +85,18 @@
         <section id="cars">
             <h2>Наши автомобили</h2>
             <div class="card">
-                <img src="car1.jpg" alt="Автомобиль 1">
+                <img src="file:///C:/Users/User/Pictures/Saved%20Pictures/2-full.webp" alt="Huynday Sonata LUX">
                 <div class="card-content">
                     <h3>Автомобиль 1</h3>
-                    <p>Цена: 214 000 000₸</p>
+                    <p>Цена: 14 000 000₸</p>
                 </div>
             </div>
             <div class="card">
-                <img src="car2.jpg" alt="Автомобиль 2">
+                <img src="![2021-BMW-530i-M-Sport-facelift-Malaysia-launch-1-e1622172651217-1260x841](https://github.com/user-attachments/assets/2ecd7aa6-730a-4a05-be12-12f051f061dc)
+" alt="BMW I530">
                 <div class="card-content">
                     <h3>Автомобиль 2</h3>
-                    <p>Цена: 25800000₸</p>
+                    <p>Цена: 25 800 000₸</p>
                 </div>
             </div>
             <!-- Добавьте больше карточек автомобилей по мере необходимости -->
@@ -107,8 +108,8 @@
         <section id="contact">
             <h2>Контакты</h2>
             <p>Email: info@autosalon.kz</p>
-            <p>Телефон: +7 (701) 123-45-67</p>
-            <p>Адрес: г. Алматы, ул. Центральная, 123</p>
+            <p>Телефон: +7 (777) 777-77-77</p>
+            <p>Адрес: г. Астана, ул. Туран, 13</>
         </section>
     </div>
     <footer class="footer">
