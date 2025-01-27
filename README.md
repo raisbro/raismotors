@@ -85,15 +85,14 @@
         <section id="cars">
             <h2>Наши автомобили</h2>
             <div class="card">
-                <img src="file:///C:/Users/User/Pictures/Saved%20Pictures/2-full.webp" alt="Huynday Sonata LUX">
+                <img src="https://avatars.mds.yandex.net/i?id=04654077537271d15933247da5d853b9_l-10245177-images-thumbs&n=13" alt="Huynday Sonata LUX">
                 <div class="card-content">
                     <h3>Автомобиль 1</h3>
                     <p>Цена: 14 000 000₸</p>
                 </div>
             </div>
             <div class="card">
-                <img src="![2021-BMW-530i-M-Sport-facelift-Malaysia-launch-1-e1622172651217-1260x841](https://github.com/user-attachments/assets/2ecd7aa6-730a-4a05-be12-12f051f061dc)
-" alt="BMW I530">
+                <img src="https://paultan.org/image/2021/05/2021-BMW-530i-M-Sport-facelift-Malaysia-launch-1-e1622172651217-1260x841.jpg" alt="BMW I530">
                 <div class="card-content">
                     <h3>Автомобиль 2</h3>
                     <p>Цена: 25 800 000₸</p>
