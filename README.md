@@ -73,13 +73,14 @@
 </head>
 <body>
     <header>
-        <h1>Добро пожаловать в Автосалон</h1>
+        <h1>Добро пожаловать в Раисмоторс</h1>
     </header>
     <nav>
         <a href="#">Главная</a>
         <a href="#cars">Автомобили</a>
-        <a href="#about">О нас</a>
-        <a href="#contact">Контакты</a>
+        <a href="#about">О нас Мы являемся лучшими в сфере автопрродаж не только в Астане но и по всему миру 
+        </a>
+        <a href="#contact">777-777-77-77,777-888-88-88</a>
     </nav>
     <div class="container">
         <section id="cars">
@@ -87,14 +88,14 @@
             <div class="card">
                 <img src="https://avatars.mds.yandex.net/i?id=04654077537271d15933247da5d853b9_l-10245177-images-thumbs&n=13" alt="Huynday Sonata LUX">
                 <div class="card-content">
-                    <h3>Автомобиль 1</h3>
+                    <h3>Sonata</h3>
                     <p>Цена: 14 000 000₸</p>
                 </div>
             </div>
             <div class="card">
                 <img src="https://paultan.org/image/2021/05/2021-BMW-530i-M-Sport-facelift-Malaysia-launch-1-e1622172651217-1260x841.jpg" alt="BMW I530">
                 <div class="card-content">
-                    <h3>Автомобиль 2</h3>
+                    <h3>BMWI530</h3>
                     <p>Цена: 25 800 000₸</p>
                 </div>
             </div>
