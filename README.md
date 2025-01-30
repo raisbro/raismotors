@@ -154,7 +154,7 @@
                 </div>
             </div>
             <div class="card">
-                <img src="[https://static.carsguide.com.au/hero/toyota-landcruiser-2025.jpg](https://toyota.com.ua/uploads/fastUpload/landcruiser2.jpg.webp)" alt="Toyota Land Cruiser">
+                <img src="[[https://static.carsguide.com.au/hero/toyota-landcruiser-2025.jpg](https://toyota.com.ua/uploads/fastUpload/landcruiser2.jpg.webp)](https://toyota.com.ua/uploads/fastUpload/landcruiser2.jpg.webp)" alt="Toyota Land Cruiser">
                 <div class="card-content">
                     <h3>Toyota Land Cruiser</h3>
                     <p>Цена: 32 000 000₸</p>
