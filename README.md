@@ -121,14 +121,16 @@
                 </div>
             </div>
             <div class="card">
-                <img src="[https://static.carsguide.com.au/hero/toyota-landcruiser-2025.jpg](https://www.google.com/url?sa=i&url=https%3A%2F%2Ftoyota.com.ua%2Fru%2Ftoyota-predstavila-novij-land-cruiser-300-yi-seriyi&psig=AOvVaw3mFUi95bCId1Y8lDq1ZKeW&ust=1738305790221000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCIjPpurrnIsDFQAAAAAdAAAAABAE)" alt="Toyota Land Cruiser">
+                <img src="![image](https://github.com/user-attachments/assets/4715ee91-26c5-4a2e-ae77-823c47944164)
+" alt="Toyota Land Cruiser">
                 <div class="card-content">
                     <h3>Toyota Land Cruiser</h3>
                     <p>Цена: 32 000 000₸</p>
                 </div>
             </div>
             <div class="card">
-                <img src="[https://www.autotrader.co.uk/cars/bmw/series-3/2020/used](https://www.google.com/url?sa=i&url=https%3A%2F%2Fauto.ru%2Fcatalog%2Fcars%2Fmercedes%2Fe_klasse%2F&psig=AOvVaw2ZK6BDDgVjRa4IopZ0UaZZ&ust=1738305839285000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCIjw0ILsnIsDFQAAAAAdAAAAABAE)" alt="Mercedes-Benz E-Class">
+                <img src="![image](https://github.com/user-attachments/assets/f8f88d5a-66b1-49ca-8c5c-727e2c0de114)
+)" alt="Mercedes-Benz E-Class">
                 <div class="card-content">
                     <h3>Mercedes-Benz E-Class</h3>
                     <p>Цена: 22 000 000₸</p>
