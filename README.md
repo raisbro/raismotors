@@ -121,21 +121,21 @@
                 </div>
             </div>
             <div class="card">
-                <img src="https://static.carsguide.com.au/hero/toyota-landcruiser-2025.jpg" alt="Toyota Land Cruiser">
+                <img src="[https://static.carsguide.com.au/hero/toyota-landcruiser-2025.jpg](https://www.google.com/url?sa=i&url=https%3A%2F%2Ftoyota.com.ua%2Fru%2Ftoyota-predstavila-novij-land-cruiser-300-yi-seriyi&psig=AOvVaw3mFUi95bCId1Y8lDq1ZKeW&ust=1738305790221000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCIjPpurrnIsDFQAAAAAdAAAAABAE)" alt="Toyota Land Cruiser">
                 <div class="card-content">
                     <h3>Toyota Land Cruiser</h3>
                     <p>Цена: 32 000 000₸</p>
                 </div>
             </div>
             <div class="card">
-                <img src="https://www.autotrader.co.uk/cars/bmw/series-3/2020/used" alt="Mercedes-Benz E-Class">
+                <img src="[https://www.autotrader.co.uk/cars/bmw/series-3/2020/used](https://www.google.com/url?sa=i&url=https%3A%2F%2Fauto.ru%2Fcatalog%2Fcars%2Fmercedes%2Fe_klasse%2F&psig=AOvVaw2ZK6BDDgVjRa4IopZ0UaZZ&ust=1738305839285000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCIjw0ILsnIsDFQAAAAAdAAAAABAE)" alt="Mercedes-Benz E-Class">
                 <div class="card-content">
                     <h3>Mercedes-Benz E-Class</h3>
                     <p>Цена: 22 000 000₸</p>
                 </div>
             </div>
             <div class="card">
-                <img src="https://images.cnbc.com/2021/02/05/101346104-2021-mercedes-benz-gle-450-suv.jpg" alt="Mercedes GLE">
+                <img src="[https://images.cnbc.com/2021/02/05/101346104-2021-mercedes-benz-gle-450-suv.jpg](https://www.google.com/imgres?q=%D0%9C%D0%95%D0%A0%D0%A1%D0%95%D0%94%D0%95%D0%A1%20%D0%93%D0%9B%D0%95&imgurl=https%3A%2F%2Faurum-motors.ru%2Fwp-content%2Fuploads%2Felementor%2Fthumbs%2FMercedes-Benz-GLE-350-4MATIC-qnweisu6x8qus58a5s28gbx20n47lfni88vdzmfts0.jpg&imgrefurl=https%3A%2F%2Faurum-motors.ru%2Fmercedes-benz-gle-350-4matic%2F&docid=iulskzzPQ2SY0M&tbnid=jL4_sQNtUGXhBM&vet=12ahUKEwjR_J2U7JyLAxV9HhAIHV4uFuEQM3oECF8QAA..i&w=1024&h=576&hcb=2&ved=2ahUKEwjR_J2U7JyLAxV9HhAIHV4uFuEQM3oECF8QAA)" alt="Mercedes GLE">
                 <div class="card-content">
                     <h3>Mercedes GLE</h3>
                     <p>Цена: 27 500 000₸</p>
