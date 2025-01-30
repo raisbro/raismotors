@@ -154,21 +154,21 @@
                 </div>
             </div>
             <div class="card">
-                <img src="https://static.carsguide.com.au/hero/toyota-landcruiser-2025.jpg" alt="Toyota Land Cruiser">
+                <img src="[https://static.carsguide.com.au/hero/toyota-landcruiser-2025.jpg](https://toyota.com.ua/uploads/fastUpload/landcruiser2.jpg.webp)" alt="Toyota Land Cruiser">
                 <div class="card-content">
                     <h3>Toyota Land Cruiser</h3>
                     <p>Цена: 32 000 000₸</p>
                 </div>
             </div>
             <div class="card">
-                <img src="https://www.autotrader.co.uk/cars/bmw/series-3/2020/used" alt="Mercedes-Benz E-Class">
+                <img src="https://avatars.mds.yandex.net/get-verba/1030388/2a000001609072024cf91b018a617dee8397/456x342" alt="Mercedes-Benz E-Class">
                 <div class="card-content">
                     <h3>Mercedes-Benz E-Class</h3>
                     <p>Цена: 22 000 000₸</p>
                 </div>
             </div>
             <div class="card">
-                <img src="https://images.cnbc.com/2021/02/05/101346104-2021-mercedes-benz-gle-450-suv.jpg" alt="Mercedes GLE">
+                <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRave4JO8uOfGdt7CqFaBGE9YFyXGHAV5ITrA&s" alt="Mercedes GLE">
                 <div class="card-content">
                     <h3>Mercedes GLE</h3>
                     <p>Цена: 27 500 000₸</p>
