@@ -9,10 +9,12 @@
             font-family: Arial, sans-serif;
             margin: 0;
             padding: 0;
-            background-color: #f4f4f4;
+            background: url('https://images.unsplash.com/photo-1596845919742-c5b60e2ffcb0') no-repeat center center fixed;
+            background-size: cover;
+            color: #fff;
         }
         header {
-            background: #333;
+            background: rgba(51, 51, 51, 0.7);
             color: #fff;
             padding: 20px 0;
             text-align: center;
@@ -24,7 +26,7 @@
         nav {
             display: flex;
             justify-content: center;
-            background: #444;
+            background: rgba(68, 68, 68, 0.8);
             padding: 15px 0;
         }
         nav a {
@@ -40,7 +42,7 @@
             max-width: 1200px;
             margin: 20px auto;
             padding: 20px;
-            background: #fff;
+            background: rgba(255, 255, 255, 0.9);
             border-radius: 8px;
             box-shadow: 0 2px 5px rgba(0,0,0,0.1);
         }
@@ -78,7 +80,7 @@
         .footer {
             text-align: center;
             padding: 15px;
-            background: #333;
+            background: rgba(51, 51, 51, 0.8);
             color: #fff;
             margin-top: 20px;
         }
@@ -198,4 +200,15 @@
                     <option value="Toyota Land Cruiser">Toyota Land Cruiser</option>
                     <option value="Mercedes-Benz E-Class">Mercedes-Benz E-Class</option>
                     <option value="Mercedes GLE">Mercedes GLE</option>
+                </select>
+                <textarea placeholder="Комментарии или пожелания" rows="4"></textarea>
+                <button type="submit">Записаться на тест-драйв</button>
+            </form>
+        </section>
+    </div>
+    <footer class="footer">
+        <p>&copy; 2025 Автосалон. Все права защищены.</p>
+    </footer>
+</body>
+</html>
 
