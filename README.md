@@ -9,12 +9,10 @@
             font-family: Arial, sans-serif;
             margin: 0;
             padding: 0;
-            background: url('https://images.unsplash.com/photo-1596845919742-c5b60e2ffcb0') no-repeat center center fixed;
-            background-size: cover;
-            color: #fff;
+            background-color: #f4f4f4;
         }
         header {
-            background: rgba(51, 51, 51, 0.7);
+            background: #333;
             color: #fff;
             padding: 20px 0;
             text-align: center;
@@ -26,7 +24,7 @@
         nav {
             display: flex;
             justify-content: center;
-            background: rgba(68, 68, 68, 0.8);
+            background: #444;
             padding: 15px 0;
         }
         nav a {
@@ -42,7 +40,7 @@
             max-width: 1200px;
             margin: 20px auto;
             padding: 20px;
-            background: rgba(255, 255, 255, 0.9);
+            background: #fff;
             border-radius: 8px;
             box-shadow: 0 2px 5px rgba(0,0,0,0.1);
         }
@@ -80,7 +78,7 @@
         .footer {
             text-align: center;
             padding: 15px;
-            background: rgba(51, 51, 51, 0.8);
+            background: #333;
             color: #fff;
             margin-top: 20px;
         }
@@ -211,4 +209,5 @@
     </footer>
 </body>
 </html>
+
 
