@@ -85,6 +85,38 @@
         .footer p {
             margin: 0;
         }
+        form {
+            margin-top: 30px;
+            background-color: #f9f9f9;
+            padding: 20px;
+            border-radius: 8px;
+            box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+        }
+        form h3 {
+            margin-bottom: 20px;
+            text-align: center;
+        }
+        form input, form select, form textarea {
+            width: 100%;
+            padding: 10px;
+            margin-bottom: 15px;
+            border: 1px solid #ddd;
+            border-radius: 5px;
+            font-size: 16px;
+        }
+        form button {
+            background-color: #333;
+            color: #fff;
+            padding: 15px;
+            border: none;
+            border-radius: 5px;
+            width: 100%;
+            font-size: 18px;
+            cursor: pointer;
+        }
+        form button:hover {
+            background-color: #444;
+        }
         @media (max-width: 768px) {
             .card {
                 flex: 1 1 100%;
@@ -102,6 +134,7 @@
         <a href="#cars">Автомобили</a>
         <a href="#about">О нас</a>
         <a href="#contact">Контакты</a>
+        <a href="#test-drive">Тест-драйв</a>
     </nav>
     <div class="container">
         <section id="cars">
@@ -121,23 +154,21 @@
                 </div>
             </div>
             <div class="card">
-                <img src="![image](https://github.com/user-attachments/assets/4715ee91-26c5-4a2e-ae77-823c47944164)
-" alt="Toyota Land Cruiser">
+                <img src="https://static.carsguide.com.au/hero/toyota-landcruiser-2025.jpg" alt="Toyota Land Cruiser">
                 <div class="card-content">
                     <h3>Toyota Land Cruiser</h3>
                     <p>Цена: 32 000 000₸</p>
                 </div>
             </div>
             <div class="card">
-                <img src="![image](https://github.com/user-attachments/assets/f8f88d5a-66b1-49ca-8c5c-727e2c0de114)
-)" alt="Mercedes-Benz E-Class">
+                <img src="https://www.autotrader.co.uk/cars/bmw/series-3/2020/used" alt="Mercedes-Benz E-Class">
                 <div class="card-content">
                     <h3>Mercedes-Benz E-Class</h3>
                     <p>Цена: 22 000 000₸</p>
                 </div>
             </div>
             <div class="card">
-                <img src="[https://images.cnbc.com/2021/02/05/101346104-2021-mercedes-benz-gle-450-suv.jpg](https://www.google.com/imgres?q=%D0%9C%D0%95%D0%A0%D0%A1%D0%95%D0%94%D0%95%D0%A1%20%D0%93%D0%9B%D0%95&imgurl=https%3A%2F%2Faurum-motors.ru%2Fwp-content%2Fuploads%2Felementor%2Fthumbs%2FMercedes-Benz-GLE-350-4MATIC-qnweisu6x8qus58a5s28gbx20n47lfni88vdzmfts0.jpg&imgrefurl=https%3A%2F%2Faurum-motors.ru%2Fmercedes-benz-gle-350-4matic%2F&docid=iulskzzPQ2SY0M&tbnid=jL4_sQNtUGXhBM&vet=12ahUKEwjR_J2U7JyLAxV9HhAIHV4uFuEQM3oECF8QAA..i&w=1024&h=576&hcb=2&ved=2ahUKEwjR_J2U7JyLAxV9HhAIHV4uFuEQM3oECF8QAA)" alt="Mercedes GLE">
+                <img src="https://images.cnbc.com/2021/02/05/101346104-2021-mercedes-benz-gle-450-suv.jpg" alt="Mercedes GLE">
                 <div class="card-content">
                     <h3>Mercedes GLE</h3>
                     <p>Цена: 27 500 000₸</p>
@@ -154,9 +185,17 @@
             <p>Телефон: +7 (777) 777-77-77</p>
             <p>Адрес: г. Астана, ул. Туран, 13</p>
         </section>
-    </div>
-    <footer class="footer">
-        <p>&copy; 2025 Автосалон. Все права защищены.</p>
-    </footer>
-</body>
-</html>
+        <section id="test-drive">
+            <h2>Записаться на тест-драйв</h2>
+            <form>
+                <h3>Заполните форму для записи на тест-драйв</h3>
+                <input type="text" placeholder="Ваше имя" required>
+                <input type="tel" placeholder="Ваш контактный телефон" required>
+                <select required>
+                    <option value="">Выберите модель автомобиля</option>
+                    <option value="Hyundai Sonata">Hyundai Sonata</option>
+                    <option value="BMW I530">BMW I530</option>
+                    <option value="Toyota Land Cruiser">Toyota Land Cruiser</option>
+                    <option value="Mercedes-Benz E-Class">Mercedes-Benz E-Class</option>
+                    <option value="Mercedes GLE">Mercedes GLE</option>
+
